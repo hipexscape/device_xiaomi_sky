@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_sky.mk
+    $(LOCAL_DIR)/rising_sky.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_sky-eng \
-    aosp_sky-userdebug \
-    aosp_sky-user
+    rising_sky-eng \
+    rising_sky-userdebug \
+    rising_sky-user
