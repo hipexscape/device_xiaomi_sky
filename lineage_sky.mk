@@ -30,3 +30,4 @@ PRODUCT_MANUFACTURER := Xiaomi
 
 # GMS
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
+WITH_GMS := true
